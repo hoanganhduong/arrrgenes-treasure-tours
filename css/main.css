@@ -37,6 +37,7 @@ html {
 }
 
 .banner {
+  background-color: #522806;
   min-height: 16em;
   color: #fff;
 }
@@ -75,6 +76,10 @@ html {
   background-color: #522806;
   border-top: .3rem solid #bea59b;
   color: #fff;
+}
+
+a:focus {
+  outline-color: #fff;
 }
 
 @media only screen and (min-width: 38em) {
